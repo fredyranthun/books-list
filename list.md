@@ -2,13 +2,12 @@
 
 ## Arquitetura e desenvolvimento de Software
 
-- Padrões de Projeto: Soluções Reutilizáveis de Software Orientados a Objetos
 - Structure and Interpretation of Computer Programs
+- Padrões de Projeto: Soluções Reutilizáveis de Software Orientados a Objetos
 - Código Limpo
 - Arquitetura Limpa
 - Refatoração - aperfeiçoando o design de Códigos Existentes
 - Test Driven Development: By Example - Kent Beck
-- The art of Computer Programming
 - The Pragmatic Programmer
 
 ## C
@@ -20,3 +19,9 @@
 ## C++
 
 - C++ Primer
+
+## Algoritmos
+
+- The art of Computer Programming
+- Algoritmos - Teoria e Prática - Introduction to Algorithms
+- Algorithms
